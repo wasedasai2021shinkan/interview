@@ -1,6 +1,9 @@
 @charset "UTF-8";
 body {
     background-color: #eaf4fc
+        right:0;
+    left:0;
+   
 }
 
 .title {
